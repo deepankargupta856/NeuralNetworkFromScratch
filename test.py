@@ -1,7 +1,6 @@
 import numpy as np
 
 
-# import matplotlib.pyplot as plt
 
 def generate_spiral_data(samples: int, classes: int):
     """
